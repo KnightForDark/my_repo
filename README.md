@@ -1,2 +1,2 @@
-#my_repo
+# my_repo
 这是一个用于学习Git的示例repository
